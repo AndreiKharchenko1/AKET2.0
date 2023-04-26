@@ -1,3 +1,6 @@
+//Instead of using this tool, I suggest you use AKET3.0 instead. It's much much better https://github.com/AndreiKharchenko1/AKET3.0
+
+
 This is AKET 2.0, Andrei Kharchenko Eyecolor Tool 2.0
 Developed by me. Also check out my Youtube Channel, https://www.youtube.com/channel/UC_qIzYkWdnJj5YTfVU-Idhg
 
